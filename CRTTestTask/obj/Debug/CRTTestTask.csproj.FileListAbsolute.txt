@@ -1,0 +1,14 @@
+d:\iluvatar\documents\visual studio 2015\Projects\CRTTestTask\CRTTestTask\bin\Debug\CRTTestTask.exe.config
+d:\iluvatar\documents\visual studio 2015\Projects\CRTTestTask\CRTTestTask\obj\Debug\MainWindow.g.cs
+d:\iluvatar\documents\visual studio 2015\Projects\CRTTestTask\CRTTestTask\obj\Debug\App.g.cs
+d:\iluvatar\documents\visual studio 2015\Projects\CRTTestTask\CRTTestTask\obj\Debug\CRTTestTask_MarkupCompile.cache
+d:\iluvatar\documents\visual studio 2015\Projects\CRTTestTask\CRTTestTask\obj\Debug\CRTTestTask_MarkupCompile.lref
+d:\iluvatar\documents\visual studio 2015\Projects\CRTTestTask\CRTTestTask\bin\Debug\CRTTestTask.exe
+d:\iluvatar\documents\visual studio 2015\Projects\CRTTestTask\CRTTestTask\bin\Debug\CRTTestTask.pdb
+d:\iluvatar\documents\visual studio 2015\Projects\CRTTestTask\CRTTestTask\obj\Debug\MainWindow.baml
+d:\iluvatar\documents\visual studio 2015\Projects\CRTTestTask\CRTTestTask\obj\Debug\CRTTestTask.g.resources
+d:\iluvatar\documents\visual studio 2015\Projects\CRTTestTask\CRTTestTask\obj\Debug\CRTTestTask.Properties.Resources.resources
+d:\iluvatar\documents\visual studio 2015\Projects\CRTTestTask\CRTTestTask\obj\Debug\CRTTestTask.csproj.GenerateResource.Cache
+d:\iluvatar\documents\visual studio 2015\Projects\CRTTestTask\CRTTestTask\obj\Debug\CRTTestTask.exe
+d:\iluvatar\documents\visual studio 2015\Projects\CRTTestTask\CRTTestTask\obj\Debug\CRTTestTask.pdb
+d:\iluvatar\documents\visual studio 2015\Projects\CRTTestTask\CRTTestTask\obj\Debug\CRTTestTask.csprojResolveAssemblyReference.cache
